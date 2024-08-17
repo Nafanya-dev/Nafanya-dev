@@ -3,13 +3,14 @@ I have been studying programming since 2023, and with each passing day, I become
 
 I am always open to new knowledge and collaboration!
 
-----
+---
 ## Contacts
 * Whatsapp: +79995598158
 * Telegram: @deleterw
 
+---
 ## Resume
-* See my portfolio at [RESUME](http://github.com/Nafanya-dev)
+* See my portfolio at [HabrCareer RESUME](http://github.com/Nafanya-dev)
 <!--
 **Nafanya-dev/Nafanya-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
