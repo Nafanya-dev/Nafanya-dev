@@ -10,7 +10,7 @@ I am always open to new knowledge and collaboration!
 
 ---
 ## Resume
-* See my portfolio at [HabrCareer RESUME](http://github.com/Nafanya-dev)
+* See my portfolio at [HabrCareer RESUME](https://career.habr.com/nafanya-dev)
 
 ---
 ### Skills
