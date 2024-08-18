@@ -10,7 +10,7 @@ I am always open to new knowledge and collaboration!
 
 ---
 ## Resume
-* See my portfolio at [HabrCareer RESUME](https://career.habr.com/nafanya-dev)
+* [HabrCareer RESUME](https://career.habr.com/nafanya-dev)
 
 ---
 ### Skills
