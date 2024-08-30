@@ -14,4 +14,4 @@ I am always open to new knowledge and collaboration!
 
 ---
 ### My tech stack
-<img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=FF8C00"/> <img src="https://img.shields.io/badge/postgreSQL-blue?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-008B8B?style=flat&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=FF8C00"/> <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
