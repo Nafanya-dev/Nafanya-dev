@@ -7,6 +7,7 @@ I am always open to new knowledge and collaboration!
 ## Contacts
 * Whatsapp: +79995598158
 * Telegram: @deleterw
+* Mail: gaevskii.v95@gmail.com
 
 ---
 ## Resume
