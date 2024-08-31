@@ -14,5 +14,12 @@ I am always open to new knowledge and collaboration!
 * [HabrCareer RESUME](https://career.habr.com/viacheslav_gaevskii)
 
 ---
-### My tech stack
-<img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=FF8C00"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=Poetry&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+## My tech stack
+##### Languages:
+[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
+##### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=flask,django)](https://skillicons.dev)
+#### Databases:
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+#### Developer Tools:
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,pycharm)](https://skillicons.dev)
