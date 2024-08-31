@@ -1,25 +1,49 @@
----
 I have been studying programming since 2023, and with each passing day, I become more fascinated by this field. I am gradually mastering a new profession and technologies. Here, you can follow my progress and projects.
 
 I am always open to new knowledge and collaboration!
 
 ---
-## Contacts
-* Email: gaevskii.v95@gmail.com
-* Telegram: @deleterw
-* Whatsapp: +79995598158
+
+<h2 align="center">My tech stack</h2>
+
+<h3 align="center"">Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css" />
+  </a>
+</p>
+
+<h3 align="center"">Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,django" />
+  </a>
+</p>
+
+<h3 align="center"">Databases</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+</p>
+
+<h3 align="center"">Developer Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,pycharm" />
+  </a>
+</p>
 
 ---
-## Resume
-* [HabrCareer RESUME](https://career.habr.com/viacheslav_gaevskii)
+
+<h2 align="center">Contacts</h2>
+
+- Email: gaevskii.v95@gmail.com
+- Telegram: [@deleterw](https://t.me/deleterw)
+- Whatsapp: +79995598158
 
 ---
-## My tech stack
-##### Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
-##### Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=flask,django)](https://skillicons.dev)
-#### Databases:
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-#### Developer Tools:
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,pycharm)](https://skillicons.dev)
+
+<h2 align="center">Resume</h2>
+
+* [HabrCareer Viacheslav Gaevskii](https://career.habr.com/viacheslav_gaevskii) (RU)
