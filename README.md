@@ -46,6 +46,6 @@ I am always open to new knowledge and collaboration!
 
 <h2 align="center">Resume</h2>
 
-* [HabrCareer Viacheslav Gaevskii](https://career.habr.com/viacheslav_gaevskii) (RU)
-* [Linkedin Viacheslav Gaevskii](www.linkedin.com/in/viacheslav-gaevskii) (EN)
+* [HabrCareer Viacheslav Gaevskii](https://career.habr.com/viacheslav_gaevskii/) (RU)
+* [Linkedin Viacheslav Gaevskii](https://www.linkedin.com/in/viacheslav-gaevskii/) (EN)
   
