@@ -48,4 +48,7 @@ I am always open to new knowledge and collaboration!
 
 * [HabrCareer Viacheslav Gaevskii](https://career.habr.com/viacheslav_gaevskii/) (RU)
 * [Linkedin Viacheslav Gaevskii](https://www.linkedin.com/in/viacheslav-gaevskii/) (EN)
-  
+
+---
+
+![LeetCode Stats](https://leetcode.card.workers.dev/nafanya-dev?theme=dark&font=baloo&extension=null)
