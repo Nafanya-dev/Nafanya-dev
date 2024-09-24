@@ -40,7 +40,6 @@ I am always open to new knowledge and collaboration!
 
 - Email: gaevskii.v95@gmail.com
 - Telegram: [@deleterw](https://t.me/deleterw)
-- Whatsapp: +79995598158
 
 ---
 
