@@ -16,7 +16,7 @@ I am always open to new knowledge and collaboration!
 <h3 align="center"">Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,django" />
+    <img src="https://skillicons.dev/icons?i=flask,django,bootstrap" />
   </a>
 </p>
 
