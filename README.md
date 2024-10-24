@@ -30,7 +30,7 @@ I am always open to new knowledge and collaboration!
 <h3 align="center"">Developer Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,pycharm" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,pycharm,docker" />
   </a>
 </p>
 
